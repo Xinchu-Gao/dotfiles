@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = xxinchu-gao@outlook.com
+	name = Xinchu Gao xinchu-gao@outlook.com
